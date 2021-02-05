@@ -1,7 +1,7 @@
 /**
  * @fileOverview Customized
  */
-import React, { isValidElement, cloneElement, createElement, Component, FunctionComponent } from 'react';
+import React, { isValidElement, cloneElement, createElement, Component, FunctionComponent, ReactElement } from 'react';
 import _ from 'lodash';
 import { Layer } from '../container/Layer';
 import { warn } from '../util/LogUtils';
